@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "xmrr"]
+	path = xmrr
+	url = https://github.com/zanidean/xmrr
+	shallow = true
+	registered = true
